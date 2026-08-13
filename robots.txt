@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-27wk8b.date-me.pro/sitemap.xml
